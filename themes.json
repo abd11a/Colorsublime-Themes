@@ -2177,5 +2177,11 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
+  },
+  {
+    "Author": "Abdullah Mohammed",
+    "Description": "Re-live the good ole days of green text on black.",
+    "FileName": "myPascal2018.tmTheme",
+    "Title": "myPascal 2018"
   }
 ]
